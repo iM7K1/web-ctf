@@ -1,0 +1,6 @@
+__pycache__/
+scoreboard.db
+challenges/*/app.db
+challenges/*/uploads/
+challenges/*/www/
+challenges/*/secret/
